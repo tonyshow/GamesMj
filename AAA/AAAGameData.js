@@ -21,3 +21,9 @@ pro.getPlayerCnt = function(){
 pro.resetData = function(){
     //必须实现
 };
+
+/*** 游戏短名 */
+pro.getGameName = function(){
+    //必须实现
+    return 'AAA';
+};
